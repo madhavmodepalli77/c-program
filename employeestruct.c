@@ -33,13 +33,13 @@ int main()
 	}
 	
 
-    //printf("Enter name: ");
-   /* scanf("%[^\n]%*c", s1.name);
+    printf("Enter name: ");
+   scanf("%[^\n]%*c", s1.name);
 
     printf("Enter age: ");
-    scanf("%d", &s1.age);*/
+    scanf("%d", &s1.age);
     
-    //display(s1);   // passing struct as an argument
+    
     
     return 0;
 }
